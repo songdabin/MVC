@@ -5,7 +5,7 @@
 ## <admin>
 <img width="1403" alt="스크린샷 2022-08-01 오전 12 05 08" src="https://user-images.githubusercontent.com/82192898/182032643-10638114-9611-46e5-8e52-e0a2934908da.png">
 
-## 웹 서비스 캠프 Week 2
+## 웹 서비스 캠프 Week 3
 1. cart CRUD
 2. spring MVC project
 3. admin page
